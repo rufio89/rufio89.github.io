@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Senate Seats 2020"
+date:   2019-10-09 10:48:00 -0400
+categories: Javascript
+---
+
+Each state regardless of population size has 2 senators.<br />
+Each senator is elected in their state for a six year term.
+
+## Open Senate Seats By State 
+* AL - Doug Jones (D)
+* AZ - Martha McSally (R)
+* CO - Cory Gardner (R)
+* GA - Johnny Isakson (R) (Not running for re-election) 
+* GA  - Pat Roberts (R)
+* IA  - Joni Earnst (R)
+* KS - Pat Roberts  (R) (Not running for re-election)
+* KY - Mitch McConnel (R)
+* ME - Susan Collins  (R)
+* MI - Gary Peters (D)
+* MN - Tina Smith (D)
+* MS - Cindy Hyde-Smith (R)
+* MT - Steve Daines (R)
+* NC - Thom Tillis (R)
+* NH - Jeanne Shaheen(D)
+* NM - Tom Udall (D)
+* TN - Lamar Alexander (R)
+* TX - John Cornyn (R)
+* VA - Mark Warner (D)
+
+
+## KEEP & Opponents
+* __AL - Doug Jones  KEEP__
+* __AZ - Mark Kelly__
+* __CO - John Hickenlooper__
+* __GA -  Terese Tomlinson__
+* IA - Michael Franken
+* KS - Nancy Boyda
+* __KY -  Amy McGrath__
+* __ME - Sara Gideon__
+* MI - Gary Peters KEEP
+* MN - Tina Smith KEEP
+* __NC - Cal Cunningham__
+* TX - MJ Hegar
