@@ -8,7 +8,7 @@ categories: Javascript
 Each state regardless of population size has 2 senators.<br />
 Each senator is elected in their state for a six year term.
 
-## Open Senate Seats By State 
+## Open Senate Seats by State 
 * AL - Doug Jones (D)
 * AZ - Martha McSally (R)
 * CO - Cory Gardner (R)
@@ -30,7 +30,8 @@ Each senator is elected in their state for a six year term.
 * VA - Mark Warner (D)
 
 
-## KEEP & Opponents
+## Dems to Vote For
+*KEEP just means a Dem is current incumbent and we don't want them to lose*
 * __AL - Doug Jones  KEEP__
 * __AZ - Mark Kelly__
 * __CO - John Hickenlooper__
