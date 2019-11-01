@@ -5,7 +5,7 @@ date:   2019-11-01 07:21:00 -0400
 categories: Health
 ---
 
-*Potential book to look at reading: <a href="https://www.amazon.com/Cultured-Ancient-Foods-Feed-Microbiome/dp/110190528X">Cultured</a>*
+*Potential book to look at reading: <a href="https://www.amazon.com/Cultured-Ancient-Foods-Feed-Microbiome/dp/110190528X" target="_blank">Cultured</a>*
 
 
 Prebiotics are the compounds in food that help our healthy bacteria thrive. There are two categories of microbes: Ones we have had throughout our lives that adapt to living there and microbes we get from food & supplements. The food/supplement microbes are ephemeral and may not have the long-term impacts that the more permanent residents will.
