@@ -5,6 +5,9 @@ date:   2019-10-09 10:48:00 -0400
 categories: Javascript
 ---
 
+
+*As a result of some of this research, I am looking into to deploying an IOS app to link to all of the senate seat donation pages. Tentatively named: BlueWave*
+
 Each state regardless of population size has 2 senators.<br />
 Each senator is elected in their state for a six year term.
 
@@ -44,3 +47,4 @@ Each senator is elected in their state for a six year term.
 * MN - Tina Smith KEEP
 * __NC - Cal Cunningham__
 * TX - MJ Hegar
+
