@@ -11,9 +11,14 @@ categories: IOS, Swift, Lottie
     * Preview files <a href="https://lottiefiles.com/preview" target="_blank">here</a>
     * Find animations <a href="https://lottiefiles.com/featured" target="_blank">here</a>
 
+# Steps
 In order to create an animation in an IOS project using Lottie you need to first have an After Effects animation file. Create a simple AE text animation with opacity and two keyframes. One with 0% opacity at the biggining and one with 100% opacity at the end. When that is complete go to Window->Extensions->Bodymovin. When the popup window appears, you will want to specify the destination folder of your animation json files. Make sure to click the "selected" radio button and then click "Render". This will output a json file in the directory you specified. After that, put your json file in your ios project and it is ready to be refenced in code. 
 
+# Your AE Animation
+![useful image]({{ site.url }}/assets/AEScreenCapture.png)
 
+# Your Animation
+![useful image]({{ site.url }}/assets/BRAND.gif)
 
 # SWIFT Code for Animation
 Create an view in your view controller and link the IBOutlet
