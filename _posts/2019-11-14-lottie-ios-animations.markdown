@@ -2,7 +2,7 @@
 layout: post
 title:  "After Effects Animations | Lottie in IOS"
 date:   2019-11-14 07:21:00 -0400
-categories: IOS, Swift, Lottie
+categories: IOS
 ---
 
 # Resources:<br />
