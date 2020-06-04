@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Police Protests in LA 6/2020"
-date:   2019-12-04 07:21:00 -0400
-categories: IOS
+date:   2020-06-03 10:36:00 -0400
+categories: Activism
 ---
 
 # 6/3/2020 
