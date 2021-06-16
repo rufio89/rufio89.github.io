@@ -2,7 +2,7 @@
 layout: post
 title:  "Microbiome"
 date:   2019-11-01 07:21:00 -0400
-categories: Health
+categories: Food
 ---
 
 *Potential book to look at reading: <a href="https://www.amazon.com/Cultured-Ancient-Foods-Feed-Microbiome/dp/110190528X" target="_blank">Cultured</a>*
