@@ -41,7 +41,7 @@ Ingredients:
 
 Knead and check opacity for "window pane" effect. This is when its ready for first proof. Then let it sit for 3 hours. 
 
-Knead again and let it sit fro another 2 or 3 hours. At this point you can put it in the fridge and let it prove overnight if you want. 
+Knead again and let it sit for another 2 or 3 hours. At this point you can put it in the fridge and let it prove overnight if you want. 
 
 Oven Prep - 450 Deg for 30-35 Minutes. Keep an eye on it
 
