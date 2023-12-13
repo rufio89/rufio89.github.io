@@ -30,5 +30,9 @@ categories: GIFTS
   - **Website:** [Airbnb Website](https://www.airbnb.com/)
   - **Gift Card Link:** [Gift Card](https://www.airbnb.com/giftcards)
 
+- **Type:** Spa
+  - **Establishment:** The Now Massage in Silverlake
+  - **Website:** [The Now Massage in Silverlake Website](https://thenowmassage.com/silver-lake/)
+  - **Gift Card Link:** [Gift Card](https://thenowmassage.com/gift-cards/)
 
 
