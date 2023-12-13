@@ -4,46 +4,87 @@ title:  "Gifts"
 date:   2023-12-12 17:00:00 -0000
 categories: GIFTS
 ---
-<table>
-<thead>
-    <tr>
-    <th>Type</th>
-    <th>Establishment</th>
-    <th>Website</th>
-    <th>Gift Card Link</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-    <td>Restaurant</td>
-    <td>Dunsmoor</td>
-    <td><a href="https://www.dunsmoor.la/">Dunsmoor Website</a></td>
-    <td><a href="https://www.toasttab.com/dunsmoor-3501-eagle-rock-boulevard/giftcards">Gift Cards</a></td>
-    </tr>
-    <tr>
-    <td>Restaurant</td>
-    <td>The Raymond</td>
-    <td><a href="https://theraymond.com/">The Raymond Website</a></td>
-    <td><a href="https://www.toasttab.com/theraymond1886/giftcards">Gift Cards</a></td>
-    </tr>
-    <tr>
-    <td>Restaurant</td>
-    <td>Blair's Restaurant</td>
-    <td><a href="https://blairsrestaurant.com/eagle-rock">Blair's Restaurant Website</a></td>
-    <td><a href="https://squareup.com/gift/BF2H0BTAYA99T/order">Gift Cards</a></td>
-    </tr>
-    <tr>
-    <td>Restaurant</td>
-    <td>Checker Hall</td>
-    <td><a href="https://www.checkerhall.com/">Checker Hall Website</a></td>
-    <td><a href="https://www.toasttab.com/checker-hall-104-north-avenue-56-2nd-floor/giftcards">Gift Cards</a></td>
-    </tr>
-    <tr>
-    <td>Accommodation</td>
-    <td>Airbnb</td>
-    <td><a href="https://www.airbnb.com/">Airbnb Website</a></td>
-    <td><a href="https://www.airbnb.com/giftcards">Gift Cards</a></td>
-    </tr>
-</tbody>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Responsive Table Styles */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+
+    /* Add media query for small screens */
+    @media screen and (max-width: 600px) {
+      table {
+        border: 0;
+      }
+      th, td {
+        padding: 6px;
+        display: block;
+        text-align: left;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Establishment</th>
+        <th>Website</th>
+        <th>Gift Card Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Restaurant</td>
+        <td>Dunsmoor</td>
+        <td><a href="https://www.dunsmoor.la/">Dunsmoor Website</a></td>
+        <td><a href="https://www.toasttab.com/dunsmoor-3501-eagle-rock-boulevard/giftcards">Gift Cards</a></td>
+      </tr>
+      <tr>
+        <td>Restaurant</td>
+        <td>The Raymond</td>
+        <td><a href="https://theraymond.com/">The Raymond Website</a></td>
+        <td><a href="https://www.toasttab.com/theraymond1886/giftcards">Gift Cards</a></td>
+      </tr>
+      <tr>
+        <td>Restaurant</td>
+        <td>Blair's Restaurant</td>
+        <td><a href="https://blairsrestaurant.com/eagle-rock">Blair's Restaurant Website</a></td>
+        <td><a href="https://squareup.com/gift/BF2H0BTAYA99T/order">Gift Cards</a></td>
+      </tr>
+      <tr>
+        <td>Restaurant</td>
+        <td>Checker Hall</td>
+        <td><a href="https://www.checkerhall.com/">Checker Hall Website</a></td>
+        <td><a href="https://www.toasttab.com/checker-hall-104-north-avenue-56-2nd-floor/giftcards">Gift Cards</a></td>
+      </tr>
+      <tr>
+        <td>Accommodation</td>
+        <td>Airbnb</td>
+        <td><a href="https://www.airbnb.com/">Airbnb Website</a></td>
+        <td><a href="https://www.airbnb.com/giftcards">Gift Cards</a></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
 
