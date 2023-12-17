@@ -37,7 +37,7 @@ categories: GIFTS
 
 - **Type:** Product
   - **Establishment:** Verve Coffee Roasters
-  - **Best Seller:** Sermon Blend (Medium Roast with tasting notes of blueberry pie, cocoa, and candied pecan)
+  - **Highlighted Coffee:** [Sermon Blend](https://www.vervecoffee.com/products/sermon)
   - **Website:** [Verve Coffee Roasters Website](https://www.vervecoffee.com/)
   - **Gift Option:** [Best Sellers](https://www.vervecoffee.com/collections/best-sellers)
 
