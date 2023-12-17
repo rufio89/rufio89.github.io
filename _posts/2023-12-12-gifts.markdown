@@ -35,4 +35,17 @@ categories: GIFTS
   - **Website:** [The Now Massage in Silverlake Website](https://thenowmassage.com/silver-lake/)
   - **Gift Card Link:** [Gift Card](https://thenowmassage.com/gift-cards/)
 
+- **Type:** Product
+  - **Establishment:** Verve Coffee Roasters
+  - **Best Seller:** Sermon Blend (Medium Roast with tasting notes of blueberry pie, cocoa, and candied pecan)
+  - **Website:** [Verve Coffee Roasters Website](https://www.vervecoffee.com/)
+  - **Gift Option:** [Best Sellers](https://www.vervecoffee.com/collections/best-sellers)
+
+- **Type:** Product
+  - **Establishment:** Onyx Coffee Lab
+  - **Highlighted Coffee:** [Southern Weather Blend](https://onyxcoffeelab.com/products/southern-weather)
+  - **Website:** [Onyx Coffee Lab Website](https://onyxcoffeelab.com/)
+  - **Gift Option:** [Coffee](https://onyxcoffeelab.com/collections/coffee)
+
+
 
