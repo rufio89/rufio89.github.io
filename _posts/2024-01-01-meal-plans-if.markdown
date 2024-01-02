@@ -5,9 +5,26 @@ date:   2024-01-01 17:00:00 -0000
 categories: MEALS
 ---
 
-## Intermittent Fasting Meal Plans
-I am starting to do a 16x8 intermittent fasting schedule. This means you fast for 16 hours and eat within an 8 hour window. I split out the meal plan by day and formulated 2 meals per day. I want the meals to follow a pescatarian diet (vegeterian + fish). 
+# 16x8 Intermittent Fasting Schedule - Pescatarian Diet
 
+**Fasting Window:** 
+- Start: 7:30 PM
+- End: 11:30 AM
+
+**Meal Plan:**
+- Two meals per day following a pescatarian diet.
+
+**Work Schedule:**
+- Start: 6:00 AM PST
+- End: 2:00 PM PST
+
+**Daily Schedule:**
+1. **Morning (6:00 AM - 11:30 AM):** Fasting period.
+2. **Lunch (around 11:30 AM):** First meal to break the fast.
+3. **Afternoon (After Lunch - 7:30 PM):** Time window for the second meal.
+4. **Evening (After 7:30 PM):** Start of fasting period.
+
+# Daily Breakdown
 1. **Day 1:**
    - Breakfast: Tofu scramble with spinach, tomatoes, and nutritional yeast. Whole-grain toast.
    - Dinner: Lentil and mixed vegetable stew. [Recipe](https://minimalistbaker.com/lentil-mushroom-stew-over-mashed-potatoes/)
