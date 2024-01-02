@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Meal PLans"
+title:  "Intermittent Fasting Meal Plans"
 date:   2024-01-01 17:00:00 -0000
 categories: MEALS
 ---
 
-## Intermitten Fasting Meals
+## Intermittent Fasting Meal Plans
 I am starting to do a 16x8 intermittent fasting schedule. This means you fast for 16 hours and eat within an 8 hour window. I split out the meal plan by day and formulated 2 meals per day. I want the meals to follow a pescatarian diet (vegeterian + fish). 
 
 1. **Day 1:**
