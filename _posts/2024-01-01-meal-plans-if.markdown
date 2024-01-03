@@ -24,7 +24,7 @@ categories: MEALS
 3. **Afternoon (After Lunch - 7:30 PM):** Time window for the second meal.
 4. **Evening (After 7:30 PM):** Start of fasting period.
 
-# Daily Breakdown
+# Daily Breakdown(Rough - Adjust recipes as needed)
 1. **Day 1:**
    - Breakfast: Tofu scramble with spinach, tomatoes, and nutritional yeast. Whole-grain toast.
    - Dinner: Lentil and mixed vegetable stew. [Recipe](https://minimalistbaker.com/lentil-mushroom-stew-over-mashed-potatoes/)
