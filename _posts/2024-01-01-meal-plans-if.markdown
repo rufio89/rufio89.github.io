@@ -32,7 +32,7 @@ categories: MEALS
 
 2. **Day 2:**
    - Breakfast: Vegan yogurt with mixed berries, granola, agave nectar.
-   - Dinner: Chickpea curry with brown rice. [Recipe](https://hostthetoast.com/easy-chickpea-curry/)
+   - Dinner: Chickpea curry with brown rice. [Recipe](https://shaneandsimple.com/easy-vegan-chickpea-curry-low-fat-healthy/)
    - Water Intake: 3 bottles (25 fl oz each)
 
 3. **Day 3:**
