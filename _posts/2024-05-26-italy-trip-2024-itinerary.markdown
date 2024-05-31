@@ -42,22 +42,35 @@ date: 2024-05-26
   - **Flight:** LX1678 arriving at 09:15 AM
   - **Accommodation:** Hotel Piti Palace
   - **Activities:**
-    - Walk around near hotel.
-    - Activity 2
+    - Piazza della Signoria
+    - Palazzo Vecchio
   - **Meals:**
-    - Breakfast: [Location]
-    - Lunch: [Location]
-    - Dinner: [Location]
+    - Breakfast: Maybe grab a bite at the hotel or right around the hotel.
+        - Coffee/Breakfast Options
+            - Ditta Artigianale
+            - La Menagere
+        - Pastries:
+            - Pasticceria Nencioni
+    - Lunch (Options): 
+        - I Fratellini
+        - Semel
+        - All’antica Vinaio (probably too touristy)
+    - Dinner (Options): 
+        - Trattoria Sergio Gozzi
+        - Osteria Cinghiale Bianco
+        - Il Santo Bevitore
+        - Cibreo Trattoria
+        - Trattoria Mario
 
 ## June 30, 2024 - Sunday
 - **Florence**
   - **Accommodation:** Hotel Piti Palace
   - **Activities:**
     - Parents Accademia Tour 10AM
-    - Lunch
-    - Pickup Rental Car
+    - Meet for Lunch After Tour
+    - Pickup Rental Car Around 2PM
   - **Meals:**
-    - Breakfast: [Location]
+    - Breakfast (Options):
     - Lunch: [Location]
     - Dinner: [Location]
 
@@ -65,8 +78,9 @@ date: 2024-05-26
 - **Monte San Savino Airbnb**
   - **Accommodation:** Airbnb in Monte San Savino
   - **Activities:**
-    - Activity 1
-    - Activity 2
+    - Go to Greve in Chianti. About an hour drive away
+    - Go to Panzano
+    - Go to Castelinna in Chianti
   - **Meals:**
     - Breakfast: [Location]
     - Lunch: [Location]
@@ -76,7 +90,8 @@ date: 2024-05-26
 - **Monte San Savino**
   - **Accommodation:** Airbnb in Monte San Savino
   - **Activities:**
-    - Activity 1
+    - Explore Cortona?
+        - Wine Tour Here: https://www.cantinacanaio.it/en
     - Activity 2
   - **Meals:**
     - Breakfast: [Location]
@@ -87,7 +102,7 @@ date: 2024-05-26
 - **Monte San Savino**
   - **Accommodation:** Airbnb in Monte San Savino
   - **Activities:**
-    - Activity 1
+    - 
     - Activity 2
   - **Meals:**
     - Breakfast: [Location]
@@ -114,7 +129,7 @@ date: 2024-05-26
 - **Rome**
   - **Accommodation:** [Airbnb]
   - **Activities:**
-    - Key Master's Tour 6AM 
+    - Key Master's Tour 6AM. [Link](https://www.takewalks.com/rome-tours/key-masters-tour-vatican-museums/?gad_source=1&gclid=Cj0KCQjwu8uyBhC6ARIsAKwBGpRd2RgPhOKwtsM1gxox2ky5Sp1s9XuTkVnH9bXbIJDjwsuQndb-NGEaAsnlEALw_wcB&gclsrc=aw.ds)
     - Activity 2
   - **Meals:**
     - Breakfast: [Location]
