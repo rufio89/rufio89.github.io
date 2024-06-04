@@ -31,7 +31,7 @@ date: 2024-05-26
     <li>Airbnb Rome
       <ul>
         <li><a href="https://www.airbnb.com/trips/v1/18e2cc24-834f-4908-8700-3d60c0754710/ro/RESERVATION2_CHECKIN/HMBXDJH8TK" target="_blank">Airbnb Link</a></li>
-        <li>Address: TBD</li>
+        <li>Address: Viale delle Mura Aurelie, 7/c int. 11/A, Rome, Lazio 00165, Italy</li>
       </ul>
     </li>
   </ul>
